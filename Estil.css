@@ -1,0 +1,182 @@
+
+
+@font-face{
+    font-family: "Cartoon2";
+    src: url(RowanMaskide.ttf);
+}
+
+body{
+    background: url(img/fondo.jpg);
+    font-family:"Cartoon2";
+}
+
+h1{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 4em;
+    border: 4px solid black;
+    border-radius: 15px;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 12px;
+    background-color: aliceblue;
+}
+
+
+section{
+    margin-bottom: 8%;
+    
+}
+
+section.uno{
+    margin-top: 100px;
+
+}
+
+section nav p a{
+    border: black 4px solid;
+    background: url(img/rojop.jpg);
+    padding: 12px;
+    border-radius: 10px;
+    font-size: 4em;
+    text-decoration: none;
+    color: white;
+    letter-spacing: 10px;
+    
+}
+
+p.resum{
+    margin-top: 2%;
+    font-size: 1.5em;
+    
+    
+}
+
+details{
+    text-align: right;
+    margin-right: 4%;
+    font-size: 2em;
+}
+
+p.aclaracio{
+    font-size: 50%;
+    color: white;
+}
+
+summary:focus{
+    outline: none;
+}
+
+section.temporades{
+    border: 4px solid black;
+    border-radius: 10px;
+    margin-right: 50%;
+    background: url(img/rojop.jpg);
+    padding: 12px;
+    margin-left: 20px;
+}
+
+h2{
+    color: white;
+    border-bottom: 4px solid black;
+    font-size: 3.5rem;
+    margin-top: 0;
+}
+
+p.nompj{
+    font-size: 3rem;
+    margin-left: 7%;
+}
+
+p.esta{
+    color: white;
+    text-align: center;
+    font-size: 2.5rem;
+    text-decoration: underline;
+}
+
+table{
+    margin-bottom: 4%;
+    font-size: x-large;
+    background-color: white;
+    
+}
+
+img{
+    vertical-align: middle;
+    margin-left: 20px;
+    border: 4px solid black;
+}
+footer.index{
+    background-color: black;
+    padding: 50px;
+    margin-left: -10px;
+    margin-right: -8px;
+    margin-bottom: -10px;
+    color: white;
+}
+
+
+
+footer p a{
+    border: 4px solid black;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+    font-size: 3em;
+    background-color: black;
+    border-radius: 10px;
+    margin-left: 2%;
+}
+
+h3{
+    font-size: 2.5em;
+}
+
+li{
+    font-size: 2em;
+    color: white;
+}
+
+section.video{
+    position: absolute;
+    top: 35%;
+    left: 60%;
+}
+
+section.temporades2{
+    border: 4px solid black;
+    border-radius: 10px;
+    background: url(img/rojop.jpg);
+    padding: 12px;
+    margin-left: 15%;
+    margin-right: 15%;
+    text-align: center;
+    
+}
+
+section.temporades3{
+    border: 4px solid black;
+    border-radius: 10px;
+    background: url(img/rojop.jpg);
+    width: 568px;
+    padding: 20px;
+}
+
+div.info{
+    border: 4px solid black;
+    font-size: 1.5em;
+}
+
+iframe{
+    margin-bottom: 30px;
+    border: 4px solid black;
+}
+
+p.videos{
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 1.5rem;
+}
